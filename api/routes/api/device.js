@@ -15,7 +15,7 @@ debug(MQTT_APP_KEY);
 const devices = [
   {
     id: 'env-01',
-    label: 'Frogs',
+    label: 'Snails',
     location: 'Dining Room',
   },
 
@@ -39,7 +39,7 @@ const devices = [
 
   {
     id: 'env-05',
-    label: 'Big Fish',
+    label: 'Frogs',
     location: 'Library (Right)',
   },
 ];
